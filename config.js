@@ -1,7 +1,7 @@
 const pkg = require('./package')
 
 module.exports = {
-  apiKey: 'AIzaSyDBM8REAXrMtwLbO0Dv1iL6hEaU-jzVdFk',
+  apiKey: 'AIzaSyA1uC0IDcX-XnUTLvazWKvQpx6DPXahWO4',
   projectId: 'vueshop-30fea',
   authDomain: 'vueshop-30fea.firebaseapp.com',
   ANALYTICS_TRACKING_ID: 'UA-49421899-3',
